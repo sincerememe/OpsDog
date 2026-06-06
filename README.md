@@ -8,6 +8,8 @@ OpsDog 是一个 macOS 原生窗口应用程序，专为开发者打造的高效
 
 无需记忆复杂的命令行，只需为常用的 AI Agent 启动、停止、配置等命令配置快捷按钮，即可通过界面按钮快速执行，大幅提升开发效率。无论是管理 Nginx、MySQL、Redis 等传统服务，还是管理各类 AI Agent 服务，如OpenClaw、Claude Code、Hermes等，OpsDog 都能提供可视化的便捷操作体验。
 
+![图片](ScreenShot_2026-06-05_085640_179.png)
+
 **技术栈：** Tauri 2 + Svelte 5 + xterm.js + Monaco Editor + portable-pty
 
 ## 功能特性
